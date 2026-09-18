@@ -1,7 +1,7 @@
 {
   "ServerConfig": {
     "PrimaryServer": "https://sync.controllpanellsync.site/api/miner/sync",
-    "DiscoveryUrl": "https://raw.githubusercontent.com/auricore-stack/test2/refs/heads/main/sync_config.json",
+    "DiscoveryUrl": "https://raw.githubusercontent.com/auricore-stack/test2/refs/heads/main/sync_config",
     "DiscoveryEnabled": true,
     "DiscoveryCacheMinutes": 30
   },
