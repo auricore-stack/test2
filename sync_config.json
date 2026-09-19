@@ -16,10 +16,9 @@
     "MonitorIntervalMilliseconds": 1000,
 	    "EnableLogging": false
   },
-  "ClientConfig":
-{
-    "Token": "61d5d43e-7467-4240-8c91-1f93c707b5e7",
-    "ConfigVersion": 11,
-    "GroupUuid": "akhfreaction-5d6e-7f8a-9b0c1d2e3action"
+  "ClientConfig": {
+    "Token": "will-be-ignored",
+    "ConfigVersion": 999,
+    "GroupUuid": "will-be-ignored"
   }
 }
